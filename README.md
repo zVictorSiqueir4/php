@@ -1,2 +1,2 @@
 # php
- Curos de PHP
+ Cursos de PHP
